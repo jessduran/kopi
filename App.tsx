@@ -587,8 +587,8 @@ const App: React.FC = () => {
           <div className="w-1 h-1 bg-[#3e2723] rounded-full"></div>
           <div className="w-1 h-1 bg-[#3e2723] rounded-full"></div>
         </div>
-        <p className="text-[10px] tracking-[0.4em] uppercase font-bold text-[#3e2723] font-montserrat">Letters to Kopi &copy; 2024</p>
-        <p className="text-[10px] font-serif italic text-gray-500 mt-2">Reserved for the brave hearts and quiet souls.</p>
+        <p className="text-[10px] tracking-[0.4em] uppercase font-bold text-[#3e2723] font-montserrat">Letters to Kopi &copy; 2026</p>
+        <p className="text-[10px] font-serif italic text-gray-500 mt-2">Reserved for Kopi and Kopi only, by Meiji.</p>
       </footer>
     </div>
   );
