@@ -112,13 +112,21 @@ const App: React.FC = () => {
           description: "A smooth, comforting draft for a bright morning. Notes of soft promises and gentle touches.",
           price: "Priceless",
           isAvailable: false,
-          category: 'Daily Brews'
+          category: 'Sweet Additions'
         },
         {
           id: 'midnight-espresso',
           title: "Midnight Espresso",
           description: "Dark, complex, and unashamedly honest. For the late-night thoughts that refuse to stay hidden.",
           price: "00:00",
+          isAvailable: false,
+          category: 'Daily Brews'
+        },
+        {
+          id: 'so-matcha',
+          title: "(Miss you) So Matcha",
+          description: "Earthy and bittersweet, with a lingering green note. For when you miss someone so much, it shows in every sip.",
+          price: "24/7",
           isAvailable: false,
           category: 'Daily Brews'
         }
