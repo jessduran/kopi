@@ -99,7 +99,7 @@ const App: React.FC = () => {
       const defaultMenu: MenuItemConfig[] = [
         {
           id: 'anniversary',
-          title: "Anniversary Special test",
+          title: "Anniversary Special",
           description: "Our house favorite. A deep, soulful blend of shared history, laughter, and a touch of sweetness. Best enjoyed in silence.",
           price: "02.16",
           letterId: '1',
